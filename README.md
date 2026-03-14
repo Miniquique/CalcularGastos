@@ -30,7 +30,7 @@ DIA 31 DEL MES 7
 
 1. Clonar el repositorio:
 
-https://github.com/Miniquique/CalcularGastos.git
+git clone https://github.com/Miniquique/CalcularGastos.git
 
 2. Compilar el programa con cobc (GNU COBOL):
 
